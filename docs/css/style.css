@@ -57,7 +57,9 @@ li {
   margin-bottom: 40px;
   text-align: center;
   letter-spacing: .05em;
-  color: #333;
+  color: #fff;
+  background-color: #AE5039;
+  border: inset 10px #602D1D;
 }
 
 .lead {
