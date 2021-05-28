@@ -151,6 +151,7 @@ li {
 }
 .profile-body {
   flex: 1;
+  font-weight: 500;
 }
 .profile-body p:not(:last-child) {
   margin-bottom: 30px;
@@ -184,6 +185,11 @@ li {
 
 .skill-name {
   margin-bottom: 3px;
+  font-size: 3px;
+}
+
+.skill-text {
+	font-weight: 500;
 }
 
 /*--- contact ---*/
